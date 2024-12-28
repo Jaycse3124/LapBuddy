@@ -1,0 +1,27 @@
+Assistant Interaction
+
+    "Hello" - Makes LapBuddy greet you.
+    "Stop" - Ends the assistant session.
+
+Application Control
+
+    "Open Firefox" - Launches the Firefox browser.
+    "Open Chrome" - Launches the Chrome browser.
+    "Open System Settings" - Opens system settings.
+    "Open Notepad" - Opens Notepad (Windows only).
+    "Open Calculator" - Opens the Calculator (Windows only).
+
+Web and Media Control
+
+    "Search for [query]" - Performs a web search (e.g., "Search for Python programming.").
+    "Play [song or video name]" - Plays the specified song or video on YouTube (e.g., "Play Shape of You.").
+
+System Control
+
+    "Set volume to [number] percent" - Adjusts system volume (e.g., "Set volume to 50 percent.").
+    "Increase brightness" - Increases screen brightness (Windows only).
+    "Decrease brightness" - Decreases screen brightness (Windows only).
+    "Shutdown" - Shuts down the laptop immediately.
+    "Sleep" - Puts the laptop into sleep mode.
+*note --> Cna me add/update functions according to requirements 
+
